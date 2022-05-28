@@ -1,5 +1,3 @@
-//       19L-1243, 19L-1248 Artificial Intelligence-6D Assignment1
-
 #include <iostream>
 #include <fstream>
 #include <stack>
